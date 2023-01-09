@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    char x,y;
+    x='%';
+    y='d';
+    printf("%c%c",x,y);
+}
